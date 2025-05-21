@@ -1,0 +1,9 @@
+timm
+omegaconf
+transformers
+opencv-python
+albumentations
+x-transformers
+torch
+einops
+Flask
